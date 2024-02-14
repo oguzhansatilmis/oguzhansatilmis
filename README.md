@@ -10,6 +10,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oguzhansatilmis&show_icons=true&locale=en&layout=compact" alt="oguzhansatilmis" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oguzhansatilmis&show_icons=true&locale=en" alt="oguzhansatilmis" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oguzhansatilmis&" alt="oguzhansatilmis" /></p>
